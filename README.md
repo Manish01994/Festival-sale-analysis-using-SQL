@@ -1,3 +1,5 @@
+![Festival-Sale-analysis](https://raw.githubusercontent.com/Manish01994/Festival-sale-analysis-using-SQL/refs/heads/main/SQL%20project%20pdf.jpg)
+Festival_Sales_Analysis
 Overview
 This project dives into the performance of the Great Indian Festival sales, focusing on electronics in Chandigarh’s e-commerce market. The analysis covers key areas like customer demographics, sales trends, product popularity, and inventory management to help improve future sales strategies and boost customer satisfaction.
 Key Objectives
